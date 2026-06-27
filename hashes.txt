@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Flammen der Sehnsucht
+
+This log tracks the cryptographic history and versioning for the song **Flammen der Sehnsucht** (flammen-der-sehnsucht).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T07:29:01.470938 | `v1` | `cb00d893b357c7d1fd9f488bc09369b4bd230eb739d929f96f8363298c0c96dc` | `d2c40326668f79095359e460c944a00a507e12c2b2927de71cf73939d598f6b7` | `2026-06-27_flammen-der-sehnsucht-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
