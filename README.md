@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/flammen-der-sehnsucht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Flammen der Sehnsucht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flammen-der-sehnsucht/) |
+| **Get License** | [Secure Licensing Rights for Flammen der Sehnsucht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flammen-der-sehnsucht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Skyline brennt, doch mein Fokus bist du
+> Baby, dein Blick raubt mir wieder die Ruh
+> Flammen der Sehnsucht, wir fliegen so high
+> Shawty, steig ein, diese Nacht gehört uns zwei
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
